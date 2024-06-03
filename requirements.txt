@@ -1,0 +1,6 @@
+# torch
+# torchvision
+# numpy
+# Pillow
+numpy==1.21.0
+Pillow==8.3.1
